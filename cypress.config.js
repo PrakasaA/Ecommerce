@@ -8,6 +8,7 @@ const createEsbuildPlugin =
 
 
 module.exports = defineConfig({
+  projectId: 'awopmx',
   
   
   defaultCommandTimeout: 8000,
